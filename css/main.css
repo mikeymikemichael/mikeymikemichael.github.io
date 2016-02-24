@@ -17,6 +17,9 @@ h5 {
 .navbar {
   background-color: #000066 !important;
 }
+.navbar-left {
+  padding-top: 10px;
+}
 .navbar-brand {
   padding-left: 35px;
   font-size: 25px;
