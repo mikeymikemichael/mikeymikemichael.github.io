@@ -2,7 +2,7 @@ body {
   margin-top: 50px;
 }
 h1, h2 {
-  padding-top: -50px;
+  padding-top: -60px;
   margin-top: 50px;
 }
 h5 {
@@ -19,7 +19,7 @@ h5 {
   background-color: #000066 !important;
 }
 .navbar-brand {
-  padding-left: 25px;
+  padding-left: 35px;
   font-size: 25px;
   color: #FFF !important;
 }
