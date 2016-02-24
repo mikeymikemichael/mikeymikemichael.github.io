@@ -15,6 +15,7 @@ h5 {
   height: 400px;
 }
 .navbar {
+  padding-top: 10px;
   background-color: #000066 !important;
 }
 .navbar-brand {
