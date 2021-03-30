@@ -1,2 +1,2 @@
 # mikeymikemichael.github.io
-A web portfolio of some of my work.
+Coming soon, a web portfolio of some of my work.
